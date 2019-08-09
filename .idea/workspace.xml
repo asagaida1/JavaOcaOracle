@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c862d6ae-365f-43b2-b173-7dda75adbbbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Lesson24/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Lesson24/Lesson24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Lesson24/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -62,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HomeWork/Lesson24/Lesson24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="954">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+            <state>
+              <caret selection-end-line="47" selection-end-column="3" />
               <folding>
                 <element signature="e#0#4360#0" expanded="true" />
               </folding>
@@ -71,26 +67,39 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HomeWork/Lesson24/ReadMe.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HomeWork/Lesson24/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
+            <state relative-caret-position="308">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
+                <element signature="e#76#77#0" expanded="true" />
                 <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
                 <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
                 <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
                 <element signature="e#307#308#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HomeWork/Lesson24/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="132">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
               <folding>
                 <element signature="e#82#83#0" expanded="true" />
                 <element signature="e#112#113#0" expanded="true" />
@@ -104,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6776">
-              <caret line="335" column="33" selection-start-line="335" selection-start-column="33" selection-end-line="335" selection-end-column="33" />
+            <state relative-caret-position="3138">
+              <caret line="178" column="34" selection-start-line="178" selection-start-column="26" selection-end-line="178" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -186,6 +195,7 @@
         <option value="$PROJECT_DIR$/src/HomeWork/Lesson24/Lesson24.java" />
         <option value="$PROJECT_DIR$/src/HomeWork/Lesson24/Animal.java" />
         <option value="$PROJECT_DIR$/src/HomeWork/Lesson24/Test1.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork/Lesson24/ReadMe.txt" />
       </list>
     </option>
   </component>
@@ -235,7 +245,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553260168759" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565357175088" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -365,12 +375,28 @@
       <workItem from="1550601813495" duration="486000" />
       <workItem from="1550666368585" duration="20309000" />
       <workItem from="1551693435913" duration="36678000" />
-      <workItem from="1553254252561" duration="2722000" />
+      <workItem from="1553254252561" duration="3469000" />
+      <workItem from="1565340214460" duration="2876000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit with Idea">
+      <created>1553260153152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553260153152</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add description 20190809">
+      <created>1565351979529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565351979529</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81591000" />
+    <option name="totallyTimeSpent" value="85214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -381,17 +407,17 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5008606" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49333334" visible="true" weight="0.10731319" />
-      <window_info id="Structure" order="6" sideWeight="0.50666666" side_tool="true" visible="true" weight="0.10731319" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49295774" visible="true" weight="0.10810811" />
+      <window_info id="Structure" order="6" sideWeight="0.5070422" side_tool="true" visible="true" weight="0.10810811" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.26868907" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.26868907" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32827735" />
+      <window_info anchor="bottom" id="Messages" order="8" visible="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -410,6 +436,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit with Idea" />
+    <MESSAGE value="Add description 20190809" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add description 20190809" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -628,10 +659,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/HomeWork/Lesson24/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6776">
-          <caret line="335" column="33" selection-start-line="335" selection-start-column="33" selection-end-line="335" selection-end-column="33" />
+        <state relative-caret-position="308">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -655,23 +696,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HomeWork/Lesson24/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HomeWork/Lesson24/Lesson24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="954">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        <state>
+          <caret selection-end-line="47" selection-end-column="3" />
           <folding>
             <element signature="e#0#4360#0" expanded="true" />
           </folding>
@@ -680,14 +708,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HomeWork/Lesson24/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="132">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
           <folding>
             <element signature="e#82#83#0" expanded="true" />
             <element signature="e#112#113#0" expanded="true" />
             <element signature="e#496#497#0" expanded="true" />
             <element signature="e#523#524#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3138">
+          <caret line="178" column="34" selection-start-line="178" selection-start-column="26" selection-end-line="178" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork/Lesson24/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
